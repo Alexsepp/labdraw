@@ -21,13 +21,9 @@ namespace LabDrawRudnev
             ScrollRed.Tag = numericRed;
             ScrollGreen.Tag = numericGreen;
             ScrollBlue.Tag = numericBlue;
-
-
             numericRed.Tag = ScrollRed;
             numericGreen.Tag = ScrollGreen;
             numericBlue.Tag = ScrollBlue;
-
-
             numericRed.Value = color.R;
             numericGreen.Value = color.G;
             numericBlue.Value = color.B;
