@@ -23,3 +23,15 @@ C:\Users\Nikita\source\repos\LabDrawRudnev\LabDrawRudnev\obj\Debug\LabDrawRudnev
 C:\Users\Nikita\source\repos\LabDrawRudnev\LabDrawRudnev\obj\Debug\LabDrawRudnev.exe
 C:\Users\Nikita\source\repos\LabDrawRudnev\LabDrawRudnev\obj\Debug\LabDrawRudnev.pdb
 C:\Users\opilane\source\repos\LabDrawRudnev\obj\Debug\LabDrawRudnev.Resize.resources
+C:\Users\ADMIN\Desktop\LabDrawRudnev\bin\Debug\LabDrawRudnev.exe.config
+C:\Users\ADMIN\Desktop\LabDrawRudnev\bin\Debug\LabDrawRudnev.exe
+C:\Users\ADMIN\Desktop\LabDrawRudnev\bin\Debug\LabDrawRudnev.pdb
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.aboutForm.resources
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.Colors.resources
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.Form1.resources
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.Resizer.resources
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.exe
+C:\Users\ADMIN\Desktop\LabDrawRudnev\obj\Debug\LabDrawRudnev.pdb
