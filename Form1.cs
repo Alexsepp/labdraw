@@ -105,17 +105,13 @@ namespace LabDrawRudnev
 
         private void OpenToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OpenFileDialog saveDig = new OpenFileDialog();
-            saveDig.Filter = "JPEG Image|*.jpg|Bitmap Image|*.bmp|GIF Image|*.gif|PNG Image|*.png";
-            saveDig.Title = "Open an Image File";
-            saveDig.FilterIndex = 1; // пнг по умолчанию
-
-            if (saveDig.ShowDialog() != DialogResult.Cancel)
+            OpenFileDialog open = new OpenFileDialog();
+            // image filters  
+            open.Filter = "Image Files(*.jpg; *.jpeg; *.gif; *.bmp; *.png)|*.jpg; *.jpeg; *.gif; *.bmp; *.png";
+            if (open.ShowDialog() == DialogResult.OK)
             {
-                pictureBox1.Load(saveDig.FileName);
-               // this.AutoSize = true;
-                pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-                pictureBox1.Image = imgOriginal;
+                // display image in picture box  
+                pictureBox1.Image = new Bitmap(open.FileName);
             }
         }
         private void ToolStripButton2_Click(object sender, EventArgs e)

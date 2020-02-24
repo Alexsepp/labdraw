@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\bin\Debug\LabDrawRudnev.exe.config
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\bin\Debug\LabDrawRudnev.exe
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\bin\Debug\LabDrawRudnev.pdb
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawPozdyshev.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawRudnev.aboutForm.resources
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawRudnev.Colors.resources
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawRudnev.Form1.resources
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawRudnev.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawRudnev.Resizer.resources
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawPozdyshev.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawRudnev.exe
+C:\Users\ADMIN\Desktop\LabDrawPozdyshev\obj\Debug\LabDrawRudnev.pdb
